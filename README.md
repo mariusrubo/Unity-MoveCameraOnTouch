@@ -1,5 +1,5 @@
 # Unity-MoveCameraOnTouch
-A simple script to smoothly move the camera around when displaying objects
+Smoothly move the camera around by clicking or touching the screen
 
 # Use
 * This script moves the camera within a specified rectangle when a user clicks (or, for Microsoft Surface, touches) the screen.
